@@ -53,9 +53,185 @@
     "dyn": 0, 
     "extendNew": 10, 
     "extendRev": 50, 
-    "media_files": [], 
+    "media_files": [
+        "4c5d39f02ec74216bd2bb11304de244b-ao-7-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-13-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-4-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-11-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-16-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-9-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-5-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-2-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-4-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-3-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-14-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-3-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-15-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-2-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-10-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-6-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-13-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-16-Q.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-8-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-5-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-1-Q.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd_tmp_wld8j.png", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-12-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-14-Q.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-O.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-15-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-8-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-7-Q.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-9-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-9-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-O.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-10-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-1-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-10-Q.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-10-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-12-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-11-A.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-8-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-8-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-6-A.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-9-Q.svg"
+    ], 
     "name": "Biomed", 
     "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE */\n\n.card .mobile, #content .mobile {\n  font-size: 100%;\n  margin: 0;\n}\n\n#io-extra-wrapper .mobile {\n  width: 95%;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "ID (hidden)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Header", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Image", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Footer", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 1", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 2", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Question Mask", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Answer Mask", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original Mask", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Image Occlusion Enhanced", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        2
+                    ]
+                ]
+            ], 
+            "sortf": 1, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "IO Card", 
+                    "ord": 0, 
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
@@ -94,7 +270,8 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Renal"
+                "Pharmacology", 
+                "Psychiatry"
             ], 
             "tmpls": [
                 {
@@ -151,6 +328,462 @@
             "guid": "gKZsD,y/[s", 
             "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
             "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-1", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-1-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-1-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "xY@ecA!bOo", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-2", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-2-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-2-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "K-P!&tY[rh", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-3", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-3-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-3-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "i4[e5[raLz", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-4", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-4-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-4-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "q;+g>@y_Aj", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-5", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-5-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-5-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "N!q:O{7jm#", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-6", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-6-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-6-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "h<B<aO^Hzn", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-7", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-7-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-7-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "O@k,Yga22#", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-8", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-8-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-8-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "r+.3R^?}{e", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-9", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-9-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-9-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "u$nYQ6[+^4", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-10", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-10-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-10-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "k<7ikTWSmw", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-11", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-11-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-11-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Ilq[&eT$yY", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-12", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-12-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-12-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "jOxR6|-KDI", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-13", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-13-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-13-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "vV(s-$(rFA", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-14", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-14-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-14-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "K%v;6qEkU`", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-15", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-15-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-15-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "u+.5Oq/6Ah", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "4c5d39f02ec74216bd2bb11304de244b-ao-16", 
+                "Kidney Anatomy", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-16-Q.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-16-A.svg\" />", 
+                "<img src=\"4c5d39f02ec74216bd2bb11304de244b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "d9U|G<fW$i", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "d3d3bc1ebddb4630be9b1d91750679bd-ao-8", 
+                "Constriction Points of Ureter", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd_tmp_wld8j.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd-ao-8-Q.svg\" />", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd-ao-8-A.svg\" />", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "eh0G*DU${T", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "d3d3bc1ebddb4630be9b1d91750679bd-ao-9", 
+                "Constriction Points of Ureter", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd_tmp_wld8j.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd-ao-9-Q.svg\" />", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd-ao-9-A.svg\" />", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "h?5>fN+H/]", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "d3d3bc1ebddb4630be9b1d91750679bd-ao-10", 
+                "Constriction Points of Ureter", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd_tmp_wld8j.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd-ao-10-Q.svg\" />", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd-ao-10-A.svg\" />", 
+                "<img src=\"d3d3bc1ebddb4630be9b1d91750679bd-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "wgrLo~GlS=", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
                 "Renal"
             ]
         }
