@@ -125,6 +125,34 @@
             "tags": [
                 "Renal"
             ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Causes of haematuria: Renal/Bladder/Urethral trauma examples", 
+                "stab/gunshot/penetration/blunt force trauma<div>pelvic fracture</div>"
+            ], 
+            "flags": 0, 
+            "guid": "t@5Kk)]jL[", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Haematological causes of haematuria", 
+                "sickle cell disease<div>coagulopathies (Henoch-Schönlein purpura, haemophillia)&nbsp;</div>"
+            ], 
+            "flags": 0, 
+            "guid": "gKZsD,y/[s", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
         }
     ]
 }
