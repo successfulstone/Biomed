@@ -169,7 +169,7 @@
         "46cb19b4b8124b808caa7932743c64b5-oa-5-Q.svg", 
         "d3d3bc1ebddb4630be9b1d91750679bd-ao-9-Q.svg"
     ], 
-    "mid": "1513083465975", 
+    "mid": "1519175703169", 
     "name": "Biomed", 
     "note_models": [
         {
@@ -198,7 +198,7 @@
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze", 
+            "name": "Cloze-0a394", 
             "sortf": 0, 
             "tags": [
                 "Renal"
@@ -592,7 +592,7 @@
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze (overlapping)", 
+            "name": "Cloze (overlapping)-bd6fc", 
             "sortf": 1, 
             "tags": [
                 "Renal"
@@ -637,7 +637,7 @@
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Basic", 
+            "name": "Basic-bd6fc", 
             "req": [
                 [
                     0, 
@@ -651,6 +651,58 @@
             "tags": [
                 "Renal"
             ], 
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
@@ -708,6 +760,18 @@
             "tags": [
                 "Renal"
             ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "List some examples of excessive estrogen state", 
+                "HRT<div>PCOS</div><div>obesity</div><div>nulliparity etc</div>"
+            ], 
+            "flags": 0, 
+            "guid": "EXBHgyar+I", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": []
         }, 
         {
             "__type__": "Note", 
@@ -2784,6 +2848,18 @@
             "tags": [
                 "Renal"
             ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Test rena", 
+                "Test rena"
+            ], 
+            "flags": 0, 
+            "guid": "y/o+x!a!lX", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": []
         }
     ]
 }
