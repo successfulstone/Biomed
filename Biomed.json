@@ -33,7 +33,7 @@
                     7
                 ], 
                 "order": 1, 
-                "perDay": 20, 
+                "perDay": 40, 
                 "separate": true
             }, 
             "replayq": true, 
@@ -54,51 +54,169 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [
-        "4c5d39f02ec74216bd2bb11304de244b-ao-7-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-13-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-4-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-11-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-9-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-10-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-7-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-16-A.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-8-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-3-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-11-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-5-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-2-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-6-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-5-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-4-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-12-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-4-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-10-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-1-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-2-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-7-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-5-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-10-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-12-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-9-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-8-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-16-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-1-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-1-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-3-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-5-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-14-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-6-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-15-A.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-9-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-3-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-15-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-10-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-7-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-9-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-O.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-10-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-2-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-7-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-4-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-3-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-12-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-1-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-13-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-8-A.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-8-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-3-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-14-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-7-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-4-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-2-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-11-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-7-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-9-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-15-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-5-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-2-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-4-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-3-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-14-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-3-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-15-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-2-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-10-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-6-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-13-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-16-Q.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd-ao-8-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-5-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-1-Q.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd_tmp_wld8j.png", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-2-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-6-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-7-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-4-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-5-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-12-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-2-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-10-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-6-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-15-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-6-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-14-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-13-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-9-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-6-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-6-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-3-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-O.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-4-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-5-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-2-A.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd_tmp_wld8j.png", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-1-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-14-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-8-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-13-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-8-Q.svg", 
         "d3d3bc1ebddb4630be9b1d91750679bd-ao-O.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-15-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-8-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-7-Q.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd-ao-9-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-9-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-O.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd-ao-10-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-8-Q.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-10-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-1-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-11-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-1-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-3-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-4-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-14-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-6-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-1-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-10-Q.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd-ao-10-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-12-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-11-A.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd-ao-8-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-8-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-9-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-8-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-6-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-5-Q.svg", 
         "d3d3bc1ebddb4630be9b1d91750679bd-ao-9-Q.svg"
     ], 
+    "mid": "1513083465975", 
     "name": "Biomed", 
     "note_models": [
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "edd6539b-1693-11e8-a6fb-0050b6c6d7f0", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze", 
+            "sortf": 0, 
+            "tags": [
+                "Renal"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
@@ -234,6 +352,267 @@
         }, 
         {
             "__type__": "NoteModel", 
+            "crowdanki_uuid": "3e08bea1-29b5-11e8-92e6-5ce0c5bacc04", 
+            "css": "/* general card style */\n\nhtml {\n  /* scrollbar always visible in order to prevent shift when revealing answer*/\n  overflow-y: scroll;\n}\n\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* general layout */\n\n.text {\n  /* center left-aligned text on card */\n  display: inline-block;\n  align: center;\n  text-align: left;\n  margin: auto;\n  max-width: 40em;\n}\n\n.hidden {\n  /* guarantees a consistent width across front and back */\n  font-weight: bold;\n  display: block;\n  line-height:0;\n  height: 0;\n  overflow: hidden;\n  visibility: hidden;\n}\n\n.title {\n  font-weight: bold;\n  font-size: 1.1em;\n  margin-bottom: 1em;\n  text-align: center;\n}\n\n/* clozes */\n\n.cloze {\n  /* regular cloze deletion */\n  font-weight: bold;\n  color: #0048FF;\n}\n\n/* original text reveal hint */\n\n.fullhint a {\n  color: #0048FF;\n}\n\n.card21 .fullhint{\n  /* no need to display hint on last card */\n  display:none;\n}\n\n/* additional fields */\n\n.extra{\n  margin-top: 0.5em;\n  margin: auto;\n  max-width: 40em;\n}\n\n.extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.extra-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Title", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Settings", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text1", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text2", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text3", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text4", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text5", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text6", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text7", 
+                    "ord": 11, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text8", 
+                    "ord": 12, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text9", 
+                    "ord": 13, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text10", 
+                    "ord": 14, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text11", 
+                    "ord": 15, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text12", 
+                    "ord": 16, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text13", 
+                    "ord": 17, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text14", 
+                    "ord": 18, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text15", 
+                    "ord": 19, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text16", 
+                    "ord": 20, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text17", 
+                    "ord": 21, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text18", 
+                    "ord": 22, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text19", 
+                    "ord": 23, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text20", 
+                    "ord": 24, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Full", 
+                    "ord": 25, 
+                    "rtl": false, 
+                    "size": 12, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze (overlapping)", 
+            "sortf": 1, 
+            "tags": [
+                "Renal"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "<div class=\"back\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Full}}\n    <div class=\"hidden\">{{Original}}</div>\n  </div>\n  <div class=\"extra\"><hr></div>\n  <div class=\"text\"><div class=\"fullhint\">{{hint:Original}}</div></div>\n  <div class=\"extra\">\n    {{#Remarks}}\n    <div class=\"extra-entry\">\n      <div class=\"extra-descr\">Remarks</div><div>{{Remarks}}</div>\n    </div>\n    {{/Remarks}}\n    {{#Sources}}\n    <div class=\"extra-entry\">\n      <div class=\"extra-descr\">Sources</div><div>{{Sources}}</div>\n    </div>\n    {{/Sources}}\n  </div>\n</div>\n<script>\n  // remove cloze syntax from revealed hint\n  var hint = document.querySelector('.fullhint>[id^=\"hint\"]')\n  var html = hint.innerHTML.replace(/\\[\\[oc(\\d+)::(.*?)(::(.*?))?\\]\\]/mg, \"$2\")\n  hint.innerHTML = html\n  // scroll to cloze\n  document.addEventListener('DOMContentLoaded', function() {\n    setTimeout(function(){\n      const cloze1 = document.getElementsByClassName(\"cloze\")[0];\n      const rect = cloze1.getBoundingClientRect();\n      const absTop = rect.top + window.pageYOffset;\n      const absBot = rect.bottom + window.pageYOffset;\n      if (absBot >= window.innerHeight) {\n        const height = rect.top - rect.bottom\n        const middle = absTop - (window.innerHeight/2) - (height/2);\n        window.scrollTo(0, middle);};\n    }, 1);\n  }, false);\n</script>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "cloze-ol", 
+                    "ord": 0, 
+                    "qfmt": "<div class=\"front\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Full}}\n    <div class=\"hidden\">\n       <div>{{Original}}</div>\n    </div>\n  </div>\n</div>"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
             "crowdanki_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
             "flds": [
@@ -270,8 +649,7 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Pharmacology", 
-                "Psychiatry"
+                "Renal"
             ], 
             "tmpls": [
                 {
@@ -784,6 +1162,1626 @@
             "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
             "tags": [
                 "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-1", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-1-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-1-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "utTuub%}0`", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-2", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-2-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-2-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "uxiqVyvY^p", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-3", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-3-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-3-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Bg.h<vS[EE", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-4", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-4-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-4-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "e;DkoT:t-+", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-5", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-5-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-5-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "F&&Ty,k>r-", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-6", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-6-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-6-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "u<QWo@W[(!", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-7", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-7-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-7-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "De=khq0s}f", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-8", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-8-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-8-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "k9A8BQ]lN2", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-9", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-9-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-9-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "CxO80D,Q2&", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-10", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-10-Q.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-10-A.svg\" />", 
+                "<img src=\"c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "msR2@PLlew", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-1", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-1-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-1-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "N9sQ6Dg,lP", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-2", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-2-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-2-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "I/;Mwvve&N", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-3", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-3-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-3-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "dRP(u7]$Kh", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-4", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-4-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-4-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "cuK6aEb?ri", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-5", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-5-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-5-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "c2&DY{rLz~", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-6", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-6-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-6-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "B>#>&~;hIs", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-7", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-7-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-7-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Ah5<+ji:N!", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-8", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-8-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-8-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "JX=7Fawtw*", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-9", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-9-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-9-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "jdbo|hj!Z@", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-10", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-10-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-10-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "nOw7{pgDKH", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-11", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-11-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-11-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "sif9KXtXmL", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-12", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-12-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-12-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "uI?NuB,5Qr", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-13", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-13-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-13-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "tVLgU{v<u0", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-14", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-14-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-14-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "b--}EHi4Ay", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "8e2d96cddb0048248f85b5d0a9a45135-ao-15", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-15-Q.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-15-A.svg\" />", 
+                "<img src=\"8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "I[52sE>6V(", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Anatomy", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Infectious causes of haematuria", 
+                "UTI<div>Acute pyelonephritis</div><div>extrapulmonary tuberculosis</div>"
+            ], 
+            "flags": 0, 
+            "guid": "m=eU.V3=cX", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Structural/anatomical causes of haematuria", 
+                "BPH<div>Polycystic kidneys/cystic renal disease</div><div>A-V malformation</div>"
+            ], 
+            "flags": 0, 
+            "guid": "F=Vy~Sr3Wv", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Congenital causes of haematuria", 
+                "Alport's syndrome (type IV collagen)<div>Benign familial haematuria (thin basement membrane nephropathy)</div>"
+            ], 
+            "flags": 0, 
+            "guid": "kI==GVvT*S", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Autoimmune causes of haematuria", 
+                "IgA nephropathy<div>Post-infectious glomerulonephritis</div><div>Membranoproliferative glomerulonephritis</div><div>SLE</div><div><br /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "MxA6GdRa$V", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Neoplastic causes of haematuria", 
+                "Bladder Ca<div>Renal cell ca</div><div>Prostate ca</div>"
+            ], 
+            "flags": 0, 
+            "guid": "FDeP4&h$r%", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Causes of haematuria (stones)", 
+                "nephrolithiasis<div>urolithiasis</div>"
+            ], 
+            "flags": 0, 
+            "guid": "BCS6vadUcS", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Iatrogenic causes of haematuria", 
+                "Instrumentation of urinary tract<div>radiation cystitis</div><div>cytotoxic medications</div><div>anticoagulation</div>"
+            ], 
+            "flags": 0, 
+            "guid": "M}H..-oxSQ", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Criteria of microscopic haematuria", 
+                "≥3 RBCs per high power field"
+            ], 
+            "flags": 0, 
+            "guid": "pftwMdbW,@", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Types of renal cellular casts", 
+                "red cell casts<div>white cell casts</div><div>Epithelial Cell Casts</div>"
+            ], 
+            "flags": 0, 
+            "guid": "h&ZSXGD0dp", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Types of renal acellular casts", 
+                "hyaline casts<div>waxy casts</div><div>fatty casts</div><div>granular casts</div>"
+            ], 
+            "flags": 0, 
+            "guid": "ocVdZ,Z@LN", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "red cell cast description", 
+                "yellowish-brown color<div>generally cylindrical</div><div>sometimes ragged edges.&nbsp;</div><div>Fragile</div>"
+            ], 
+            "flags": 0, 
+            "guid": "vnQ9ij8;.c", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What do red cell casts indicate?", 
+                "glomerulonephritis<div>tubular damage/necrosis</div><div>other nephritic symptoms</div><div>urinary tract injury</div>"
+            ], 
+            "flags": 0, 
+            "guid": "m1lE.AMHyT", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "what do white cell casts look like?", 
+                "generally cylindrical, white cells clumped in a protein matrix"
+            ], 
+            "flags": 0, 
+            "guid": "Oi{f(L.fs=", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What do white cell casts indicate?", 
+                "UTI<div>acute pyelonephritis</div><div>glomerulonephritis</div>"
+            ], 
+            "flags": 0, 
+            "guid": "c3KZYAENHO", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is gross haematuria a worrying sign of?", 
+                "Urological cancer (presenting sign of 66% of urological cancers)"
+            ], 
+            "flags": 0, 
+            "guid": "tOfxYfgSK&", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Investigations for haematuria", 
+                "RBC<div>Urine (dipstick, culture -MCS-, microscopy)</div><div>coagulation studies</div><div>PSA</div><div>CT/Ultrasound (CT urography)</div>"
+            ], 
+            "flags": 0, 
+            "guid": "gsb]G}4RNp", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the most common renal cancer?", 
+                "RCC"
+            ], 
+            "flags": 0, 
+            "guid": "i$~>?Pf94-", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "RCC generally affects who?", 
+                "older men"
+            ], 
+            "flags": 0, 
+            "guid": "f47xCu$_j_", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Which cells does RCC usually come from?", 
+                "epithelial cells of PCT<div>Most common compposed of <b>polygonal epithelial cells</b></div>"
+            ], 
+            "flags": 0, 
+            "guid": "qHK7EoYxH.", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Risk factors for RCC", 
+                "smoking<div>HTN</div><div>obesity</div><div><br /></div><div>Hereditary form in&nbsp;von Hippel-Lindau syndrome and hereditary papillary renal carcinoma</div>"
+            ], 
+            "flags": 0, 
+            "guid": "s`dlAt{k@Y", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "46cb19b4b8124b808caa7932743c64b5-oa-1", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-1-Q.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-1-A.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "J[Lb-7DRjt", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "46cb19b4b8124b808caa7932743c64b5-oa-2", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-2-Q.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-2-A.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Ni,V-KluY$", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "46cb19b4b8124b808caa7932743c64b5-oa-3", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-3-Q.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-3-A.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "p50It+wD97", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "46cb19b4b8124b808caa7932743c64b5-oa-4", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-4-Q.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-4-A.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "i$&aAcDHum", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "46cb19b4b8124b808caa7932743c64b5-oa-5", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-5-Q.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-5-A.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "uJU2iz:;cd", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "46cb19b4b8124b808caa7932743c64b5-oa-6", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-6-Q.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-6-A.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "oaj^Toe@`+", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "46cb19b4b8124b808caa7932743c64b5-oa-7", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-7-Q.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-7-A.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "A/AUvZ`6GA", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "46cb19b4b8124b808caa7932743c64b5-oa-8", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-8-Q.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-8-A.svg\" />", 
+                "<img src=\"46cb19b4b8124b808caa7932743c64b5-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "gC-sp]+I#{", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<h2>Renal Cell Carcinoma Types</h2><table style=\"font-size: 1em; width: 100%; border-collapse: collapse;\"><thead><tr><th align=\"left\" style=\"width: 50%; padding: 5px;border-bottom: 2px solid #00B3FF\">Sporadic</th><th align=\"left\" style=\"width: 50%; padding: 5px;border-bottom: 2px solid #00B3FF\">Inherited (eg. von Hippel-Lindau Disease)</th></tr></thead>\n<tbody><tr><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c1::Solitary Tumours}}</td><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c2::involve both kidneys}}</td></tr><tr><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c1::Upper pole of kidney}}</td><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\"><br /></td></tr><tr><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c3::Common in older men}}</td><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c4::younger men and women}}</td></tr><tr><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c5::smokers}}</td><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c6::rare, autosomal dominant}}</td></tr><tr><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\"><br /></td><td style=\"text-align: 50; padding: 5px;border-bottom: 1px solid #B0B0B0\">mutations lead to {{c7::cysts}} + {{c7::benign tumour}}s in {{c8::eyes}}, {{c9::CNS}}, {{c10::kidneys}} (#1 cause of death in VHL disease)</td></tr></tbody></table>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "kIaVl)tJpH", 
+            "note_model_uuid": "edd6539b-1693-11e8-a6fb-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "RCC clinical features found in Hx<div><ul style=\"margin-left: 20px; \"><li>{{c1::</li><li>pain (flank/near hip)</li><li>haematuria</li><li>fever</li><li>cachexia/weight loss</li><li>anaemia</li>}}</ul><div>Found in Examination</div></div><div><ul style=\"margin-left: 20px; \"><li>{{c2::</li><li>Palpable mass (abdomen/lower back)</li><li>L testes varicocele</li><li>inflammation</li>}}</ul></div><div><br /></div><div>Found in Investigations</div><div><ul style=\"margin-left: 20px; \"><li>{{c3::</li><li>paraneoplastic syndromes</li><li>imaging of tumour</li><li>biopsy</li><li>hypercalcaemia (lytic bone mets, overproduction of PTHrP)</li>}}</ul></div>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "FzKJ%X2H*[", 
+            "note_model_uuid": "edd6539b-1693-11e8-a6fb-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How is RCC related to varicocele formation?", 
+                "<div>L gonadal vein drains into L renal vein. R gonadal goes directly into IVC</div><div>&nbsp;</div>blockage of L renal vein&nbsp;→ impediment of venous drainage of L testes&nbsp;→ varcocele in L testes"
+            ], 
+            "flags": 0, 
+            "guid": "mn-0~8NcJX", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How might RCC spread?", 
+                "invasion to retroperitoneal lymph nodes<div><br /></div><div>via renal vein&nbsp;→ IVC&nbsp;→ lungs + bone</div><div><br /></div><div>Direct spread + invasion of nearby areas (eg. renal vein)</div>"
+            ], 
+            "flags": 0, 
+            "guid": "y<fG0-Y(OZ", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is Stauffer's Syndrome?", 
+                "non-metastatic hepatic dysfunction caused by RCC (and poentially some other cancers)<div><br /></div><div>abnormal LFTs especially those reflecting cholestasis</div>"
+            ], 
+            "flags": 0, 
+            "guid": "F?$z:k0<kK", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Paraneoplastic effects of RCC", 
+                "<ul style=\"margin-left: 20px; \"><li>EPO&nbsp;→ polycythemia&nbsp;</li><li>Renin&nbsp;→ increased BP</li><li>PTHrP&nbsp;→ hypercalcaemia</li><li>ACTH&nbsp;→ increased cortisol&nbsp;→ Cushing's syndrome</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "GZMbYwh57v", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Chemotherapy/Radiotherapy for RCC?", 
+                "RCC usually resistant to chemo and radiotherapy"
+            ], 
+            "flags": 0, 
+            "guid": "C&&fllB*sU", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Effective treatments for RCC", 
+                "immunotherapy agents: Chemokines, antibodies<div><br /></div><div>Molecular targeted therapies: VEGF receptor</div><div><br /></div><div>Surgical resection, if localised</div>"
+            ], 
+            "flags": 0, 
+            "guid": "ljb81ixT{c", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is the urothelium?", 
+                "<ul style=\"margin-left: 20px; \"><li>transitional cell epithelium</li><li>3-7 cell layers</li><li>barrier layer</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "klr8G-a;|>", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are umbrella cells of the urothelium?", 
+                "surface layer of urothelium<div>tight junctions</div><div>lined with protein-lipid complex called plaque along apical membrane</div>"
+            ], 
+            "flags": 0, 
+            "guid": "g#CO_nc4$H", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the 2 main forms of UCC?", 
+                "p53 dependent and P53 independent"
+            ], 
+            "flags": 0, 
+            "guid": "N;fV;Ii`&T", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "p53 dependent UCC features", 
+                "flat tumour<div>invasive</div>"
+            ], 
+            "flags": 0, 
+            "guid": "cfTFBY/MAX", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "p53 independent UCC features", 
+                "less aggressive than p53 dependent<div>papillary tumour</div><div>potentially invasive</div>"
+            ], 
+            "flags": 0, 
+            "guid": "nCK6I}qAg`", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "UCC risk factors", 
+                "age<div>carcinogens</div><div>alcohol abuse (with long dwell times)</div>"
+            ], 
+            "flags": 0, 
+            "guid": "kW/`Ds}Xy-", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "UCC Carcinogens<div><br /></div><div>\"having trouble with your [[oc1::Pee SAC]]?\"</div><div><ul style=\"margin-left: 20px; \"><li>[[oc2::Phenacitin - banned analgesic]]</li><li>[[oc3::Smoking - #1 risk factor]]</li><li>[[oc4::Analine - organic compund in rubber + dye manufacturing]]</li><li>[[oc5::Cyclophosphamide - med for cancers and autoimmune disorders, toxic on bladder]]&nbsp;</li></ul></div><div><br /></div>", 
+                "", 
+                "", 
+                "", 
+                "1,1,0 | n,n,n,n", 
+                "UCC Carcinogens<div><br /></div><div>\"having trouble with your {{c1::Pee SAC}}?\"</div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>...</li><li>...&nbsp;</li></ul></div><div><br /></div>", 
+                "UCC Carcinogens<div><br /></div><div>\"having trouble with your Pee SAC?\"</div><div><ul style=\"margin-left: 20px; \"><li>{{c2::Phenacitin - banned analgesic}}</li><li>...</li><li>...</li><li>...&nbsp;</li></ul></div><div><br /></div>", 
+                "UCC Carcinogens<div><br /></div><div>\"having trouble with your ...?\"</div><div><ul style=\"margin-left: 20px; \"><li>Phenacitin - banned analgesic</li><li>{{c3::Smoking - #1 risk factor}}</li><li>...</li><li>...&nbsp;</li></ul></div><div><br /></div>", 
+                "UCC Carcinogens<div><br /></div><div>\"having trouble with your ...?\"</div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>Smoking - #1 risk factor</li><li>{{c4::Analine - organic compund in rubber + dye manufacturing}}</li><li>...&nbsp;</li></ul></div><div><br /></div>", 
+                "UCC Carcinogens<div><br /></div><div>\"having trouble with your ...?\"</div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>Analine - organic compund in rubber + dye manufacturing</li><li>{{c5::Cyclophosphamide - med for cancers and autoimmune disorders, toxic on bladder}}&nbsp;</li></ul></div><div><br /></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "UCC Carcinogens<div><br /></div><div>\"having trouble with your {{c21::Pee SAC}}?\"</div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Phenacitin - banned analgesic}}</li><li>{{c21::Smoking - #1 risk factor}}</li><li>{{c21::Analine - organic compund in rubber + dye manufacturing}}</li><li>{{c21::Cyclophosphamide - med for cancers and autoimmune disorders, toxic on bladder}}&nbsp;</li></ul></div><div><br /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "A7eO7r=HsU", 
+            "note_model_uuid": "3e08bea1-29b5-11e8-92e6-5ce0c5bacc04", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Why is UCC difficult to treat?", 
+                "field effect (similar exposure to carcinogens)<div>implantation theory</div><div><br /></div><div>multifocal&nbsp;</div><div>recurring</div><div>metastasis common</div>"
+            ], 
+            "flags": 0, 
+            "guid": "xR*yIKSk!8", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "UCC treatment", 
+                "resection w/ cystoscope (transurethral resection TUR)<div>+ chemo from catheter (intravesical chemotherapy)</div><div><br /></div><div>aggressive cancer may req. cysto-prostratectomy</div>"
+            ], 
+            "flags": 0, 
+            "guid": "#)zi&De4o", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "how are Kidney stones formed?", 
+                "supersaturation of solutes (inc. solutes/dehydration)<div><br /></div><div>crystal formed acts as nidus for more crystal formation</div>"
+            ], 
+            "flags": 0, 
+            "guid": "vwN7qg{_}V", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Nephrolithiasis types<div><ul style=\"margin-left: 20px; \"><li>[[oc1::Calcium Oxalate]]</li><li>[[oc2::Calcium phosphate]]</li><li>[[oc3::Uric acid]]</li><li>[[oc4::struvite]]</li><li>[[oc5::cystine]]</li><li>[[oc6::xanthine]]</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "10,1,0 | n,n,n,n", 
+                "Nephrolithiasis types<div><ul style=\"margin-left: 20px; \"><li>{{c1::Calcium Oxalate}}</li><li>...</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div>", 
+                "Nephrolithiasis types<div><ul style=\"margin-left: 20px; \"><li>Calcium Oxalate</li><li>{{c2::Calcium phosphate}}</li><li>...</li><li>...</li><li>...</li><li>...</li></ul></div>", 
+                "Nephrolithiasis types<div><ul style=\"margin-left: 20px; \"><li>Calcium Oxalate</li><li>Calcium phosphate</li><li>{{c3::Uric acid}}</li><li>...</li><li>...</li><li>...</li></ul></div>", 
+                "Nephrolithiasis types<div><ul style=\"margin-left: 20px; \"><li>Calcium Oxalate</li><li>Calcium phosphate</li><li>Uric acid</li><li>{{c4::struvite}}</li><li>...</li><li>...</li></ul></div>", 
+                "Nephrolithiasis types<div><ul style=\"margin-left: 20px; \"><li>Calcium Oxalate</li><li>Calcium phosphate</li><li>Uric acid</li><li>struvite</li><li>{{c5::cystine}}</li><li>...</li></ul></div>", 
+                "Nephrolithiasis types<div><ul style=\"margin-left: 20px; \"><li>Calcium Oxalate</li><li>Calcium phosphate</li><li>Uric acid</li><li>struvite</li><li>cystine</li><li>{{c6::xanthine}}</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Nephrolithiasis types<div><ul style=\"margin-left: 20px; \"><li>{{c21::Calcium Oxalate}}</li><li>{{c21::Calcium phosphate}}</li><li>{{c21::Uric acid}}</li><li>{{c21::struvite}}</li><li>{{c21::cystine}}</li><li>{{c21::xanthine}}</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "f>(m/2i:oN", 
+            "note_model_uuid": "3e08bea1-29b5-11e8-92e6-5ce0c5bacc04", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Calcium oxalate stones general features", 
+                "dark brown/black stone<div>radiopaque on x-ray</div><div>acidic urine</div>"
+            ], 
+            "flags": 0, 
+            "guid": "zsUcRtRA@h", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Calcium phosphate stone features", 
+                "dirty white<div>radiopaque on x-ray</div><div>alkaline urine</div>"
+            ], 
+            "flags": 0, 
+            "guid": "d:wAg-:ims", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Risk factor for calcium stones", 
+                "Hypercalcemia&nbsp;<div><ul style=\"margin-left: 20px; \"><li>inc. absorption in GIT</li><li>hormonal causes (eg. primary hyperparathyroidism)</li></ul><div>Hypercalcuria&nbsp;</div></div><div><ul style=\"margin-left: 20px; \"><li>impaired renal tubular reabsorption&nbsp;</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "O/m)rpDe~{", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Causes of hyperoxaluria (RF for calcium oxalate stones)", 
+                "<ul style=\"margin-left: 20px; \"><li>genetic defect&nbsp;→ inc. oxalate excretion</li><li>defect in liver metabolism</li><li>diet heavy in oxalate-rich foods (rhubarb, spinach, chocolate, nuts, beer)</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "L6H*CY(qJ>", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Uric acid stones features", 
+                "red-brown colour<div>radiolucent</div>"
+            ], 
+            "flags": 0, 
+            "guid": "jFXEDuMbXp", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Formation of uric acid stones", 
+                "High consumption of purines&nbsp;→ Uric acid&nbsp;→ at physiologic pH, forms urate ion<div>→ + Na<sup>+</sup>→ monosodium urate&nbsp;→ crystallises&nbsp;</div>"
+            ], 
+            "flags": 0, 
+            "guid": "P5*Ze*x50%", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Food high in purines", 
+                "shellfish<div>anchovies</div><div>red meat</div><div>organ meat</div>"
+            ], 
+            "flags": 0, 
+            "guid": "vzmBlQK4S;", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are struvite stones composed of?", 
+                "Mg<sup>2+</sup>, NH<sub>4</sub><sup>+ </sup>ammonium&nbsp;, PO<sub>4</sub><sup>3- </sup>phosphate"
+            ], 
+            "flags": 0, 
+            "guid": "z>q{Sm,#.k", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How are struvite stones formed?", 
+                "Bacteria (eg. proteus mirabilis, proteus vulgaris, morganella morganii)<div>produces urease</div><div><br /></div><div>urea&nbsp;→ CO<sub>2</sub> + ammonia</div><div>urine pH inc.</div><div>Favours precipitation of Mg<sup>2+</sup>, NH<sub>4</sub><sup>+</sup>, PO<sub>4</sub><sup>3-</sup></div>"
+            ], 
+            "flags": 0, 
+            "guid": "l8KBJLjUE.", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Struvite stones features", 
+                "dirty white<div>radiopaque on x-ray</div><div>staghorn stones</div>"
+            ], 
+            "flags": 0, 
+            "guid": "E,tKMJnk9I", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Risk factors for struvite stones", 
+                "UTI<div>Vesicourethral reflux (also RF for UTI)</div><div>Obstructive uropathies&nbsp;(also RF for UTI)</div>"
+            ], 
+            "flags": 0, 
+            "guid": "Gwq#{gyb#`", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cystine Stones features", 
+                "yellow/light pink<div>radiopaque on x-ray</div>"
+            ], 
+            "flags": 0, 
+            "guid": "wA*):Ni%-J", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Xanthine stones features", 
+                "byproduct of purine breakdown<div>red-brown</div><div>radiolucent</div>"
+            ], 
+            "flags": 0, 
+            "guid": "i,cN6H-.Ou", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Nephrolithiasis clinical features", 
+                "Dull/localised flank pain - mid/lower back<div>Renal colic (misnomer) - sharp pain, constant</div>"
+            ], 
+            "flags": 0, 
+            "guid": "Gd+&SZxv<w", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What size kidney stones usually pass by themselves within a few hours?", 
+                "&lt;5mm"
+            ], 
+            "flags": 0, 
+            "guid": "wFxDr}i&)f", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Nephrolithiasis Investigations", 
+                "Hx + exam<div>Imaging (x-ray, CT scan, ultrasound)</div><div>urinalysis - microscopic/gross haematuria</div>"
+            ], 
+            "flags": 0, 
+            "guid": "ibgE*6ych>", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Nephrolithiasis treatment", 
+                "hydration<div>medication</div><div>shockwave lithotripsy</div><div>surgery + stent placement</div>"
+            ], 
+            "flags": 0, 
+            "guid": "dTvFQdtp^X", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What medications are useful in nephrolithiasis treatment?", 
+                "Analgesia<div>potassium citrate (dec. stone formation)</div><div>Help pass stones (Alpha-adrenergic blockers, Ca<sup>2+</sup> Channel blockers)</div>"
+            ], 
+            "flags": 0, 
+            "guid": "I);K]za13o", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": [
                 "Renal"
             ]
         }
