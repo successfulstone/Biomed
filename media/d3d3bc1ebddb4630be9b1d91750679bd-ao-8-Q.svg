@@ -1,0 +1,19 @@
+<svg height="546" width="728" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <line fill="#FFEBA2" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-1" stroke="#2D2D2D" stroke-width="3" x1="381" x2="521" y1="185" y2="201"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-2" stroke-width="0" text-anchor="middle" transform="matrix(1.17774 0 0 1 -58.5552 0)" x="532" xml:space="preserve" y="202"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-3" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1.09793 0 6.46326)" x="586" xml:space="preserve" y="198.80274">Pelvoureteric junction</text>
+  <line fill="#ff0000" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-4" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3" x1="402" x2="497" y1="342" y2="350"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-5" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="567" xml:space="preserve" y="356">Pelvic Brim</text>
+  <line fill="#FFEBA2" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-6" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3" x1="379" x2="465" y1="485" y2="441"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-7" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="578" xml:space="preserve" y="432">Vesicoureteric Junction</text>
+  <rect class="qshape" fill="#FF7E7E" height="38" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-8" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="260" x="448" y="401"/>
+  <rect fill="#FFEBA2" height="39" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-9" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="128" x="504" y="326"/>
+  <rect fill="#FFEBA2" height="33" id="d3d3bc1ebddb4630be9b1d91750679bd-ao-10" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="243" x="468" y="201"/>
+ </g>
+</svg>
