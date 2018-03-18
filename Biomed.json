@@ -54,122 +54,167 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [
-        "4c5d39f02ec74216bd2bb11304de244b-ao-13-Q.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-9-A.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-O.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-10-Q.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-7-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-16-A.svg", 
         "d3d3bc1ebddb4630be9b1d91750679bd-ao-8-Q.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-3-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-9-A.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-11-Q.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-5-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-9-Q.svg", 
         "46cb19b4b8124b808caa7932743c64b5-oa-2-Q.svg", 
         "46cb19b4b8124b808caa7932743c64b5-oa-6-Q.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-5-A.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-4-Q.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-12-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-10-A.svg", 
         "46cb19b4b8124b808caa7932743c64b5-oa-4-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-14-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-10-A.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-1-A.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-2-A.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-7-A.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-5-Q.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-10-A.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-12-A.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-9-Q.svg", 
+        "9ff97c27bc5a48eababbf10713d969db-oa-O.svg", 
         "46cb19b4b8124b808caa7932743c64b5-oa-8-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-16-Q.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-1-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-1-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-3-Q.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-5-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-14-Q.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-6-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-15-A.svg", 
+        "9ff97c27bc5a48eababbf10713d969db-oa-1-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-13-A.svg", 
         "d3d3bc1ebddb4630be9b1d91750679bd-ao-9-A.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-3-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-15-A.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-10-A.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-7-A.svg", 
-        "46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-9-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-O.svg", 
         "d3d3bc1ebddb4630be9b1d91750679bd-ao-10-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-12-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5_tmpo6teuf.png", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-4-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-9-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-6-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-1-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-11-A.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-2-Q.svg", 
         "46cb19b4b8124b808caa7932743c64b5-oa-7-Q.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-4-A.svg", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-3-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-14-Q.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-O.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-12-Q.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-1-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-8-Q.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-13-A.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-8-A.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd-ao-8-A.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-3-Q.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-14-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-15-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-7-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-7-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-4-Q.svg", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-2-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-11-Q.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-7-Q.svg", 
+        "9ff97c27bc5a48eababbf10713d969db-oa-3-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-9-Q.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135_tmpiltwv9.png", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-15-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-5-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-2-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-4-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-3-A.svg", 
         "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-2-Q.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-6-Q.svg", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-7-A.svg", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-4-A.svg", 
         "46cb19b4b8124b808caa7932743c64b5-oa-5-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-12-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-2-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-8-Q.svg", 
+        "Capture (1).JPG", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-9-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-3-Q.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-10-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-4-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-5-A.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd_tmp_wld8j.png", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-2-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-8-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-7-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-8-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-3-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-3-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-4-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-10-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-3-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-8-Q.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-9-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-5-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-3-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-7-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-16-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-9-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-10-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-5-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-11-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-6-Q.svg", 
+        "9ff97c27bc5a48eababbf10713d969db_tmplnrlqy.png", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-10-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-12-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-13-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-2-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-8-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-1-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-5-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-12-A.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-9-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-8-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-1-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-16-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-1-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-O.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-6-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-15-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-7-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-4-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-7-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-7-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-O.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-12-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-7-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-4-A.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-3-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-6-Q.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-O.svg", 
+        "46cb19b4b8124b808caa7932743c64b5-oa-1-Q.svg", 
+        "d3d3bc1ebddb4630be9b1d91750679bd-ao-8-A.svg", 
+        "9ff97c27bc5a48eababbf10713d969db-oa-1-A.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-14-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-13-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-4-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-2-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-11-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-1-Q.svg", 
+        "paste-64218351009795.jpg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-5-A.svg", 
+        "9ff97c27bc5a48eababbf10713d969db-oa-3-Q.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-14-A.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-6-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-15-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-6-Q.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-14-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-13-A.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-9-Q.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-6-A.svg", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-6-A.svg", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-3-Q.svg", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-O.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-4-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-5-A.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-2-A.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd_tmp_wld8j.png", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-1-Q.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-8-Q.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-13-Q.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-8-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-3-A.svg", 
         "d3d3bc1ebddb4630be9b1d91750679bd-ao-O.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-8-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-7-Q.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b_tmpvdn852.png", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-8-Q.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd-ao-10-Q.svg", 
+        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-3-Q.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-8-A.svg", 
+        "9ff97c27bc5a48eababbf10713d969db-oa-2-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-2-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b-ao-12-A.svg", 
+        "4c5d39f02ec74216bd2bb11304de244b_tmpsqvhix.png", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-13-Q.svg", 
+        "8e2d96cddb0048248f85b5d0a9a45135-ao-8-A.svg", 
+        "paste-66052302045187.jpg", 
+        "Capture2.JPG", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-1-Q.svg", 
         "8e2d96cddb0048248f85b5d0a9a45135-ao-11-A.svg", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-1-A.svg", 
-        "c9c0b2e469ad4dc4a2f74c96f2bff18b-ao-3-A.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-4-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-14-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-6-A.svg", 
+        "9ff97c27bc5a48eababbf10713d969db-oa-2-A.svg", 
+        "Capture1.JPG", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-1-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-10-Q.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-11-A.svg", 
-        "8e2d96cddb0048248f85b5d0a9a45135-ao-8-A.svg", 
+        "a37473290b684b7f975e6a71cc24a8f7-oa-2-A.svg", 
         "4c5d39f02ec74216bd2bb11304de244b-ao-9-A.svg", 
-        "4c5d39f02ec74216bd2bb11304de244b-ao-8-Q.svg", 
-        "46cb19b4b8124b808caa7932743c64b5-oa-5-Q.svg", 
-        "d3d3bc1ebddb4630be9b1d91750679bd-ao-9-Q.svg"
+        "4c5d39f02ec74216bd2bb11304de244b-ao-6-A.svg"
     ], 
-    "mid": "1519175703169", 
+    "mid": "1521273613576", 
     "name": "Biomed", 
     "note_models": [
         {
@@ -595,7 +640,7 @@
             "name": "Cloze (overlapping)-bd6fc", 
             "sortf": 1, 
             "tags": [
-                "Renal"
+                "ScrotalMasses"
             ], 
             "tmpls": [
                 {
@@ -702,7 +747,9 @@
                 ]
             ], 
             "sortf": 0, 
-            "tags": [], 
+            "tags": [
+                "ScrotalMasses"
+            ], 
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
@@ -760,18 +807,6 @@
             "tags": [
                 "Renal"
             ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "List some examples of excessive estrogen state", 
-                "HRT<div>PCOS</div><div>obesity</div><div>nulliparity etc</div>"
-            ], 
-            "flags": 0, 
-            "guid": "EXBHgyar+I", 
-            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
-            "tags": []
         }, 
         {
             "__type__": "Note", 
@@ -2358,7 +2393,7 @@
             "data": "", 
             "fields": [
                 "Paraneoplastic effects of RCC", 
-                "<ul style=\"margin-left: 20px; \"><li>EPO&nbsp;→ polycythemia&nbsp;</li><li>Renin&nbsp;→ increased BP</li><li>PTHrP&nbsp;→ hypercalcaemia</li><li>ACTH&nbsp;→ increased cortisol&nbsp;→ Cushing's syndrome</li></ul>"
+                "<div>PEAR</div><ol type=\"1\" start=\"1\"><li>PTHrP&nbsp;→ hypercalcaemia</li><li>EPO&nbsp;→ polycythemia&nbsp;</li><li>ACTH&nbsp;→ increased cortisol&nbsp;→ Cushing's syndrome</li><li>Renin&nbsp;→ increased BP</li></ol>"
             ], 
             "flags": 0, 
             "guid": "GZMbYwh57v", 
@@ -2400,7 +2435,7 @@
             "data": "", 
             "fields": [
                 "What is the urothelium?", 
-                "<ul style=\"margin-left: 20px; \"><li>transitional cell epithelium</li><li>3-7 cell layers</li><li>barrier layer</li></ul>"
+                "<ul style=\"margin-left: 20px; \"><li>barrier layer for bladder</li><li>transitional cell epithelium</li><li>3-7 cell layers</li></ul>"
             ], 
             "flags": 0, 
             "guid": "klr8G-a;|>", 
@@ -2414,7 +2449,7 @@
             "data": "", 
             "fields": [
                 "What are umbrella cells of the urothelium?", 
-                "surface layer of urothelium<div>tight junctions</div><div>lined with protein-lipid complex called plaque along apical membrane</div>"
+                "<ul style=\"margin-left: 20px; \"><li>surface layer of urothelium</li><li>tight junctions</li><li>lined with protein-lipid complex called plaque along apical membrane</li></ul>"
             ], 
             "flags": 0, 
             "guid": "g#CO_nc4$H", 
@@ -2840,7 +2875,7 @@
             "data": "", 
             "fields": [
                 "What medications are useful in nephrolithiasis treatment?", 
-                "Analgesia<div>potassium citrate (dec. stone formation)</div><div>Help pass stones (Alpha-adrenergic blockers, Ca<sup>2+</sup> Channel blockers)</div>"
+                "<ul style=\"margin-left: 20px; \"><li>Analgesia</li><li>potassium citrate (dec. stone formation)</li><li>Help pass stones (Alpha-adrenergic blockers, Ca<sup>2+</sup> Channel blockers) - relax smooth musc.</li></ul>"
             ], 
             "flags": 0, 
             "guid": "I);K]za13o", 
@@ -2853,6 +2888,18 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
+                "List some examples of excessive estrogen state", 
+                "HRT<div>PCOS</div><div>obesity</div><div>nulliparity etc</div>"
+            ], 
+            "flags": 0, 
+            "guid": "EXBHgyar+I", 
+            "note_model_uuid": "edd31f40-1693-11e8-bf77-0050b6c6d7f0", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
                 "Test rena", 
                 "Test rena"
             ], 
@@ -2860,6 +2907,932 @@
             "guid": "y/o+x!a!lX", 
             "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
             "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What drugs are associated with analgesic nephropathy?", 
+                "Aspirin<div>Phenacitin</div><div>Paracetamol (NSAIDs)</div>"
+            ], 
+            "flags": 0, 
+            "guid": "jFABy;OahA", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "Pharmacology", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<b>Triple Whammy</b> drug classes", 
+                "Diuretics<div>ACE Inhibitors/AT2R Inhibitors</div><div>NSAIDs</div>"
+            ], 
+            "flags": 0, 
+            "guid": "b&>{o=`B=b", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "Pharmacology", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Triple Whammy drugs pathophysiology<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>[[oc1::Reduced GFR and glomerular perfusion pressure (ACEI + AT2RI dilation of efferent arteriole)]]</li><li>[[oc2::Volume depletion leading to reduced GFR - acute renal failure (diuretics)]]</li><li>[[oc3::Reduced prostaglandins from NSAID. (prostaglandins maintain afferent arteriole dilatation, especially in compromised states - reduced glomerular blood flow)]]</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "Triple Whammy drugs pathophysiology<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>{{c1::Reduced GFR and glomerular perfusion pressure (ACEI + AT2RI dilation of efferent arteriole)}}</li><li>...</li><li>...</li></ul></div>", 
+                "Triple Whammy drugs pathophysiology<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>{{c2::Volume depletion leading to reduced GFR - acute renal failure (diuretics)}}</li><li>...</li></ul></div>", 
+                "Triple Whammy drugs pathophysiology<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>...</li><li>...</li><li>{{c3::Reduced prostaglandins from NSAID. (prostaglandins maintain afferent arteriole dilatation, especially in compromised states - reduced glomerular blood flow)}}</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Triple Whammy drugs pathophysiology<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Reduced GFR and glomerular perfusion pressure (ACEI + AT2RI dilation of efferent arteriole)}}</li><li>{{c21::Volume depletion leading to reduced GFR - acute renal failure (diuretics)}}</li><li>{{c21::Reduced prostaglandins from NSAID. (prostaglandins maintain afferent arteriole dilatation, especially in compromised states - reduced glomerular blood flow)}}</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "KL*T?6$J9w", 
+            "note_model_uuid": "3e08bea1-29b5-11e8-92e6-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How does phenacetin contribute to analgesic nephropathy?", 
+                "<ul style=\"margin-left: 20px; \"><li>Phenacetin converted into Acetaminophen and reactive intermediates</li><li>cell injury from accumulation of metabolites in medulla (esp at renal papillary tip)</li></ul><div><br /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "q}+nnN[T*E", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "Pharmacology", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How do NSAIDs and Aspirin contribute to analgesic nephropathy?", 
+                "<ul style=\"margin-left: 20px; \"><li>Mainly an issue when combined with phenacetin. Worsens effects of phenacetin</li><li><b>suppressed PG production</b> &gt; renal medulla especially dependent on vasodillatory PGs &gt; more risk of ischaemic damage</li></ul><div><br /></div><div><ul style=\"margin-left: 20px; \"><li>eventually leads to renal papillary necrosis, chronic interstitial nephritis</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "uZ^+8Ho%;U", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "Pharmacology", 
+                "Renal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9ff97c27bc5a48eababbf10713d969db-oa-1", 
+                "", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db_tmplnrlqy.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db-oa-1-Q.svg\" />", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db-oa-1-A.svg\" />", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "K+OB,L!3.B", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9ff97c27bc5a48eababbf10713d969db-oa-2", 
+                "", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db_tmplnrlqy.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db-oa-2-Q.svg\" />", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db-oa-2-A.svg\" />", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "OBCq~tbM5b", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9ff97c27bc5a48eababbf10713d969db-oa-3", 
+                "", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db_tmplnrlqy.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db-oa-3-Q.svg\" />", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db-oa-3-A.svg\" />", 
+                "<img src=\"9ff97c27bc5a48eababbf10713d969db-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "n:-l)$XW0@", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Paracetamol MOA", 
+                "Not fully understood.<div>COX inhibition? in CNS</div><div>activation of descending serotonergic inhibitory pathways in the CNS - analgesia<br /><div><ul style=\"margin-left: 20px; \"><li>NOT anti-inflammatory</li><li>only anti-pyretic and analgesia</li></ul></div></div>"
+            ], 
+            "flags": 0, 
+            "guid": "Is^h;7}qUD", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Selective COX-2 Inhibitors Examples", 
+                "<ul style=\"margin-left: 20px; \"><li>Celecoxib</li><li>Rofecoxib (oseoarthritis only in Aus)</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "g:G&k4/OIV", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Examples of &nbsp;\"short-acting\" nonselective NSAIDs", 
+                "\"short acting\" = &lt;6hrs half life<div><ul style=\"margin-left: 20px; \"><li>ibuprofen</li><li>ketoprofen</li><li>diclofenac</li><li>indomethacin</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "t{[W3d1kg*", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Examples of &nbsp;\"long-acting\" nonselective NSAIDs", 
+                "\"long-acting\" = &gt;6hrs half life<div><ul style=\"margin-left: 20px; \"><li>naproxen</li><li>meloxicam</li><li>piroxicam<br /><br /></li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "OPHX<hq[|C", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "NSAID Side Effects<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Cardio [[oc1::(HTN)]]</li><li>GIT [[oc2::(dyspepsia, GORD, peptic ulcer)]]</li><li>Kidney [[oc3::(NSAID mediated AKI)]]</li><li>Liver [[oc4::(hepatotoxicity - long term, high dose use)]]</li><li>Haem [[oc5::(Bleeding - esp with Aspirin)]]</li><li>CNS [[oc6::(headache, dizziness, tinnitus)]]</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "0,1,0 | n,n,n,n", 
+                "NSAID Side Effects<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Cardio {{c1::(HTN)}}</li><li>GIT ...</li><li>Kidney ...</li><li>Liver ...</li><li>Haem ...</li><li>CNS ...</li></ul></div>", 
+                "NSAID Side Effects<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Cardio ...</li><li>GIT {{c2::(dyspepsia, GORD, peptic ulcer)}}</li><li>Kidney ...</li><li>Liver ...</li><li>Haem ...</li><li>CNS ...</li></ul></div>", 
+                "NSAID Side Effects<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Cardio ...</li><li>GIT ...</li><li>Kidney {{c3::(NSAID mediated AKI)}}</li><li>Liver ...</li><li>Haem ...</li><li>CNS ...</li></ul></div>", 
+                "NSAID Side Effects<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Cardio ...</li><li>GIT ...</li><li>Kidney ...</li><li>Liver {{c4::(hepatotoxicity - long term, high dose use)}}</li><li>Haem ...</li><li>CNS ...</li></ul></div>", 
+                "NSAID Side Effects<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Cardio ...</li><li>GIT ...</li><li>Kidney ...</li><li>Liver ...</li><li>Haem {{c5::(Bleeding - esp with Aspirin)}}</li><li>CNS ...</li></ul></div>", 
+                "NSAID Side Effects<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Cardio ...</li><li>GIT ...</li><li>Kidney ...</li><li>Liver ...</li><li>Haem ...</li><li>CNS {{c6::(headache, dizziness, tinnitus)}}</li></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "NSAID Side Effects<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Cardio {{c21::(HTN)}}</li><li>GIT {{c21::(dyspepsia, GORD, peptic ulcer)}}</li><li>Kidney {{c21::(NSAID mediated AKI)}}</li><li>Liver {{c21::(hepatotoxicity - long term, high dose use)}}</li><li>Haem {{c21::(Bleeding - esp with Aspirin)}}</li><li>CNS {{c21::(headache, dizziness, tinnitus)}}</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "f7++.H_c7j", 
+            "note_model_uuid": "3e08bea1-29b5-11e8-92e6-5ce0c5bacc04", 
+            "tags": [
+                "Pharmacology"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-1", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-1-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-1-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "efP%YYv)Sy", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-2", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-2-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-2-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "g?M%~}jDAi", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-3", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-3-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-3-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Q.6MMT/<3p", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-4", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-4-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-4-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "B<#1NP:w;x", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-5", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-5-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-5-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "M<@_lO(iIN", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-6", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-6-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-6-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "iP/&Sz8cAX", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-7", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-7-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-7-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "m~<H37g9KM", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-8", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-8-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-8-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "G>#+HX;T~i", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-9", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-9-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-9-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "m}CQI7UH+4", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-10", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-10-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-10-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "q7eX7;19hm", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-11", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-11-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-11-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "Pf(KJgBhm~", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-12", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-12-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-12-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "yAbdq4/Mq@", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-13", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-13-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-13-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "AxyMGjPpl|", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-14", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-14-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-14-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "b_Xj$n&V`0", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "a37473290b684b7f975e6a71cc24a8f7-oa-15", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7_tmplikwos.png\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-15-Q.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-15-A.svg\" />", 
+                "<img src=\"a37473290b684b7f975e6a71cc24a8f7-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "BbdXDv#$uu", 
+            "note_model_uuid": "35a38c47-16e6-11e8-b5f1-0050b6c6d7f0", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Categories of causes of scrotal masses", 
+                "<b>THIN F</b>luid<br /><div><b>T</b>rauma</div><div><b>H</b>ernia</div><div><b>I</b>nflammation</div><div><b>N</b>eoplastic</div><div><b>F</b>luid-filled</div>"
+            ], 
+            "flags": 0, 
+            "guid": "NSv{ZC[e5r", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Inflammatory causes of scrotal masses", 
+                "Epididymitis<div>Orchitis</div><div><hr /></div><div>+ve Prehn's sign, +ve cremasteric reflex</div>"
+            ], 
+            "flags": 0, 
+            "guid": "bf6NIAY&+(", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Traumatic causes of scrotal masses", 
+                "Hematocele<div>Testicular torsion&nbsp;</div>"
+            ], 
+            "flags": 0, 
+            "guid": "DAP_5#oo`", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Fluid-filled causes of scrotal masses", 
+                "Hydrocele<div>Varicocele</div><div>Spermatocele (milky fluid, sperm containing)</div><div>Epididymal cyst (clear transudate)</div><div><hr /><img src=\"Capture (1).JPG\" /><img src=\"Capture1.JPG\" /><img src=\"Capture2.JPG\" /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "jGhPzXEavH", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Neoplastic causes of scrotal masses<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>[[oc1::Germ Cell tumour (95%)]]</li><ul><li>[[oc2::Seminoma (50%)]]</li><li>[[oc2::Non-seminoma]]</li><ul><li>[[oc4::embryonal carcinoma]]</li><li>[[oc4::endodermal sinus tumour]]</li><li>[[oc4::yolk sac tumour]]</li><li>[[oc4::teratoma]]</li><li>[[oc4::choriocarcinoma]]</li></ul><li>[[oc2::Mixed (seminoma/non-seminoma) (most of non-seminoma types)]]</li></ul><li>Non-Germ Cell tumour (5%)</li><ul><li>[[oc1::Stromal (4%)]]</li><ul><li>[[oc3::Leydig cell]]</li><li>[[oc3::Sertoli cell]]</li></ul><li>[[oc1::Mesenchymal]]</li><ul><li>Primary malignant lymphoma</li><li>rhabdomyosarcoma</li></ul></ul></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "10,1,10 | n,n,n,n", 
+                "Neoplastic causes of scrotal masses<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>{{c1::Germ Cell tumour (95%)}}</li><ul><li>Seminoma (50%)</li><li>Non-seminoma</li><ul><li>embryonal carcinoma</li><li>endodermal sinus tumour</li><li>yolk sac tumour</li><li>teratoma</li><li>choriocarcinoma</li></ul><li>Mixed (seminoma/non-seminoma) (most of non-seminoma types)</li></ul><li>Non-Germ Cell tumour (5%)</li><ul><li>{{c1::Stromal (4%)}}</li><ul><li>Leydig cell</li><li>Sertoli cell</li></ul><li>{{c1::Mesenchymal}}</li><ul><li>Primary malignant lymphoma</li><li>rhabdomyosarcoma</li></ul></ul></ul></div>", 
+                "Neoplastic causes of scrotal masses<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Germ Cell tumour (95%)</li><ul><li>{{c2::Seminoma (50%)}}</li><li>{{c2::Non-seminoma}}</li><ul><li>embryonal carcinoma</li><li>endodermal sinus tumour</li><li>yolk sac tumour</li><li>teratoma</li><li>choriocarcinoma</li></ul><li>{{c2::Mixed (seminoma/non-seminoma) (most of non-seminoma types)}}</li></ul><li>Non-Germ Cell tumour (5%)</li><ul><li>Stromal (4%)</li><ul><li>Leydig cell</li><li>Sertoli cell</li></ul><li>Mesenchymal</li><ul><li>Primary malignant lymphoma</li><li>rhabdomyosarcoma</li></ul></ul></ul></div>", 
+                "Neoplastic causes of scrotal masses<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Germ Cell tumour (95%)</li><ul><li>Seminoma (50%)</li><li>Non-seminoma</li><ul><li>embryonal carcinoma</li><li>endodermal sinus tumour</li><li>yolk sac tumour</li><li>teratoma</li><li>choriocarcinoma</li></ul><li>Mixed (seminoma/non-seminoma) (most of non-seminoma types)</li></ul><li>Non-Germ Cell tumour (5%)</li><ul><li>Stromal (4%)</li><ul><li>{{c3::Leydig cell}}</li><li>{{c3::Sertoli cell}}</li></ul><li>Mesenchymal</li><ul><li>Primary malignant lymphoma</li><li>rhabdomyosarcoma</li></ul></ul></ul></div>", 
+                "Neoplastic causes of scrotal masses<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>Germ Cell tumour (95%)</li><ul><li>Seminoma (50%)</li><li>Non-seminoma</li><ul><li>{{c4::embryonal carcinoma}}</li><li>{{c4::endodermal sinus tumour}}</li><li>{{c4::yolk sac tumour}}</li><li>{{c4::teratoma}}</li><li>{{c4::choriocarcinoma}}</li></ul><li>Mixed (seminoma/non-seminoma) (most of non-seminoma types)</li></ul><li>Non-Germ Cell tumour (5%)</li><ul><li>Stromal (4%)</li><ul><li>Leydig cell</li><li>Sertoli cell</li></ul><li>Mesenchymal</li><ul><li>Primary malignant lymphoma</li><li>rhabdomyosarcoma</li></ul></ul></ul></div>", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "Neoplastic causes of scrotal masses<div><br /></div><div><ul style=\"margin-left: 20px; \"><li>{{c21::Germ Cell tumour (95%)}}</li><ul><li>{{c21::Seminoma (50%)}}</li><li>{{c21::Non-seminoma}}</li><ul><li>{{c21::embryonal carcinoma}}</li><li>{{c21::endodermal sinus tumour}}</li><li>{{c21::yolk sac tumour}}</li><li>{{c21::teratoma}}</li><li>{{c21::choriocarcinoma}}</li></ul><li>{{c21::Mixed (seminoma/non-seminoma) (most of non-seminoma types)}}</li></ul><li>Non-Germ Cell tumour (5%)</li><ul><li>{{c21::Stromal (4%)}}</li><ul><li>{{c21::Leydig cell}}</li><li>{{c21::Sertoli cell}}</li></ul><li>{{c21::Mesenchymal}}</li><ul><li>Primary malignant lymphoma</li><li>rhabdomyosarcoma</li></ul></ul></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "C~(TUf]?Pd", 
+            "note_model_uuid": "3e08bea1-29b5-11e8-92e6-5ce0c5bacc04", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Herniation cause of scrotal masses", 
+                "Indirect inguinal hernia"
+            ], 
+            "flags": 0, 
+            "guid": "DZV<%vERxW", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When does the testes descend?", 
+                "<div>Normally, the testes descend from the coelomic cavity into the pelvis by the third month of gestation and&nbsp;then through the inguinal canals into the scrotum during the last 2 months of intrauterine life</div>"
+            ], 
+            "flags": 0, 
+            "guid": "eAK~m/TBCf", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is cryptorchidism?", 
+                "undescended testes<div>seek treatment. From 6mths to 2 yrs max</div><div>surg MGMT mainly</div>"
+            ], 
+            "flags": 0, 
+            "guid": "NyRTRaMiCA", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Causes of cryptorchidism", 
+                "<div><ul style=\"margin-left: 20px; \"><li>hormal abnormalities</li><li>intrinsic testicular abnormalities and mechanical problems (e.g. obstruction of&nbsp;the inguinal canal, issues with gubernaculum development)</li><li>congenital syndroms (e.g. Prader-Willi syndrome)</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "F;N0@X$22`", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Diagnostic Investigations for Cryptorchidism", 
+                "Ultrasound<div>Clinical diagnosis w/ exam</div>"
+            ], 
+            "flags": 0, 
+            "guid": "jVFS9[<z:H", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Complications of cryptorchidism", 
+                "<ul style=\"margin-left: 20px; \"><li>Infertility (low with unilateral, high with bilateral)</li><li>malignancy (associated with cryporchidism, higher risk with later treatment - 2.23RR vs 5.40RR before and after 13y.o. in Sweden vs general population</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "ozlEKzNUF?", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are some histologic changes in cryptorchidism?", 
+                "<div>Histologic changes in the malpositioned testis begin as early as 2 years of age.&nbsp;</div><div><br /></div><div>They are characterized by an&nbsp;<b>arrest in the development of germ cells</b> associated with <b>marked hyalinization</b> and <b>thickening of the&nbsp;basement membrane of the spermatic tubules</b></div><div><br /></div><div><img src=\"paste-64218351009795.jpg\" /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "vvp5lEf]J<", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is an inguinal hernia?", 
+                "<div>the protrusion or passage of a&nbsp;peritoneal sac, with or without abdominal contents,</div><div>through a weakened part of the abdominal wall in the&nbsp;groin. Can be direct or indirect</div>"
+            ], 
+            "flags": 0, 
+            "guid": "N#{_&ENqq;", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is an indirect inguinal hernia?", 
+                "<div><ul style=\"margin-left: 20px; \"><li>Enabled by patent processus vaginalis.</li><li>Protrusion of peritoneal sac entering the&nbsp;inguinal canal by passing through the deep&nbsp;inguinal ring.&nbsp;</li><li>Extent of excursion depends on amount of processus vaginalis that remains patent</li><li>Protrusion may extend into scrotum for men and labia majus for women</li></ul></div>"
+            ], 
+            "flags": 0, 
+            "guid": "I$Wi1~fXxn", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is a direct inguinal hernia?", 
+                "<ul style=\"margin-left: 20px; \"><li>Peritoneal sac bulges through weakened abdominal wall.</li><li>Through Hesselbach's triangle</li><li>May exit through superficial inguinal ring (but does not go through deep inguinal ring)</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "viLQlM+$wB", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is Hesselbach's triangle?", 
+                "<div>bounded:</div><div>laterally by the inferior epigastric artery;</div><div>medially by the rectus abdominis muscle;</div><div>inferiorly by the inguinal ligament</div><div><br /></div><div><img src=\"paste-66052302045187.jpg\" /></div>"
+            ], 
+            "flags": 0, 
+            "guid": "B;zk(fJ+I.", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "Anatomy", 
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What is testicular torsion?", 
+                "Urological emergency. Twisting of spermatic cord resulting in venous engorgement that causes arterial compromise and irreversible damage if torsion is not resolved in 6-12hrs"
+            ], 
+            "flags": 0, 
+            "guid": "H:Hnk2s3jB", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What clinical findings will you find in testicular torsion?", 
+                "<ul style=\"margin-left: 20px; \"><li>sudden-onset unilateral testicular pain (may radiate to the lower abdomen)</li><li>swollen and tender testicle</li><li>nausea and vomiting</li><li>high-riding testicle with transverse lie</li><li>-ve cremasteric reflex</li><li>Prehn's sign -ve</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "Q64od&xj{>", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What are the 2 main age presentations of testicular torsion?", 
+                "Neonatal (entire tunica vaginalis undergoes torsion (extravaginal torsion), no associated anatomical changes)<div><br /></div><div>Adult (associated with Bell clapper deformity)</div>"
+            ], 
+            "flags": 0, 
+            "guid": "dCe^jG-x%p", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Management of testicular torsion", 
+                "<ul style=\"margin-left: 20px; \"><li>Urologic emergency, treat within 6hrs</li><li>Surgical exploration with reduction and orchidopexy&nbsp;</li><li>orchidopexy of contralateral side also recommended</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "eImn!d^i-a", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Complications of testicular torsion", 
+                "<ul style=\"margin-left: 20px; \"><li>Infarction of testes.&nbsp;Permanent loss of testicular function, necrosis</li><li>innoculation of immune system with testes antigens &gt; future immunological infertility (sympathetic orchidopathia) - non-viable testes should be removed to prevent infertility in unaffected testes</li></ul>"
+            ], 
+            "flags": 0, 
+            "guid": "c~rs04TM)w", 
+            "note_model_uuid": "297b1975-29b8-11e8-a0b0-784f43a01554", 
+            "tags": [
+                "ScrotalMasses"
+            ]
         }
     ]
 }
