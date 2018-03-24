@@ -1,0 +1,19 @@
+<svg height="1074" width="1460" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#fcd4e7" height="62" id="4f0c9397577d44a2afa504178e760739-oa-1" stroke="#2D2D2D" width="444" x="570" y="78"/>
+  <rect fill="#fcd4e7" height="46" id="4f0c9397577d44a2afa504178e760739-oa-2" stroke="#2D2D2D" width="308" x="582" y="234"/>
+  <rect fill="#fcd4e7" height="58" id="4f0c9397577d44a2afa504178e760739-oa-3" stroke="#2D2D2D" width="170" x="584" y="370"/>
+  <rect fill="#fcd4e7" height="74" id="4f0c9397577d44a2afa504178e760739-oa-4" stroke="#2D2D2D" width="354" x="584" y="510"/>
+  <rect fill="#fcd4e7" height="62" id="4f0c9397577d44a2afa504178e760739-oa-5" stroke="#2D2D2D" width="328" x="582" y="690"/>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="4f0c9397577d44a2afa504178e760739-oa-6" stroke-width="0" text-anchor="middle" transform="matrix(0.892202 0 0 1 429.954 4)" x="584" xml:space="preserve" y="924">Distant resolved HBV infection (most common, esp if born in HBV endemic areas</text>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="4f0c9397577d44a2afa504178e760739-oa-7" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.841163 0 0 1 79.5548 -4)" x="1036" xml:space="preserve" y="958">False +ve or resolving acute HBV infection or passive transfer of maternal anti-HBc</text>
+  <rect fill="#f9d4e6" height="126" id="4f0c9397577d44a2afa504178e760739-oa-8" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="796" x="572" y="852">
+   <animate attributeName="opacity" begin="indefinite" dur="0.2" fill="freeze" to="1"/>
+  </rect>
+ </g>
+</svg>
